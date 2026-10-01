@@ -1,3 +1,14 @@
+1. servidor - https://dle.rae.es/servidor
+2. cliente - https://dle.rae.es/cliente
+3. repositorio - https://dle.rae.es/repositorio
+4. comando - https://dle.rae.es/comando
+5. terminal - https://dle.rae.es/terminal
+6. interfaz - https://dle.rae.es/interfaz
+7. sistema - https://dle.rae.es/sistema
+8. archivo - https://dle.rae.es/archivo
+9. carpeta - https://dle.rae.es/carpeta
+10. red - https://dle.rae.es/red
+
 1. lámpara - https://dle.rae.es/lámpara
 2. cañería - https://dle.rae.es/cañería
 3. avión - https://dle.rae.es/avión
